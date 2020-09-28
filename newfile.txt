@@ -1,3 +1,8 @@
 Hi am new File
 I got Updated :)
 changes on GitHub :(
+
+the git add is use to add the file from working area to staging area and the 
+git commit is to add the file from staging area to your local repository then the git
+push is it adds the from your local repository to the remote repository(which is the github
+in our case)
